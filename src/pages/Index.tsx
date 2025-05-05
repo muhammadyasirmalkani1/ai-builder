@@ -500,7 +500,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8">
-            <p className="text-center">© 2025 AI Builder. All rights reserved.</p>
+            <p className="text-center">© 2025 Muhammad Yasir Malkani. All rights reserved.</p>
           </div>
         </div>
       </footer>
