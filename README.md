@@ -1,72 +1,79 @@
-# Welcome to your Lovable project
+```markdown
+# 👋 Hi, I’m Muhammad Yasir Malkani (muhammadyasirmalkani1)
 
-## Project info
+> Building thoughtful apps, exploring cybersecurity, and sharing what I learn.
 
-URL:-'https://github.com/muhammadyasirmalkani1/ai-builder.git'
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadyasirmalkani1&show_icons=true&theme=radical)](https://github.com/muhammadyasirmalkani1)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## About Me
+I’m a [your role here — e.g., Software Engineer / Full‑Stack Developer / Cybersecurity Enthusiast] passionate about building clean, user-centered applications and learning new security techniques. I enjoy turning ideas into polished products and open-sourcing tools that help others.
 
-Use:
+- 🔭 I’m currently working on: Reflect.app
+- 🌱 I’m learning: [add topics you're currently learning]
+- 👯 I’m open to collaborating on: [open-source projects, security research, product ideas]
+- 💬 Ask me about: web development, cybersecurity, and product design
+- 📫 How to reach me: [email or other contact method]
+- ⚡ Fun fact: [short fun fact or hobby]
 
-Simply visit the [ Project] and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## Skills
+Languages & Frameworks:
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js / Express
+- HTML, CSS (Tailwind / Bootstrap)
+- Python (for scripts & tooling)
 
-Use your preferred IDE
+Security & Tools:
+- Penetration testing basics / Security concepts
+- Git, Docker, Linux
+- CI/CD and deployment (Vercel, Netlify)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+(Replace or reorder these with your top skills.)
 
-The only requirement is having Node.js & npm installed 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## Featured Projects
+- Reflect.app — https://github.com/muhammadyasirmalkani1/Reflect.app  
+  A [short one-line description you want here]. (e.g., note-taking / journaling app with X features)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- reflect — https://github.com/muhammadyasirmalkani1/reflect  
+  A [short one-line description you want here]. (e.g., a lightweight frontend for Y)
 
-# Step 3: Install the necessary dependencies.
-npm i
+- My-Portfolio-Skills — https://github.com/muhammadyasirmalkani1/My-Portfolio-Skills  
+  A curated list / personal site experiment showcasing skills and projects.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+- cyber-security — https://github.com/muhammadyasirmalkani1/cyber-security  
+  Notes, labs, and resources related to cybersecurity topics and practice.
+
+- Personal-Portfolio-Website — https://github.com/muhammadyasirmalkani1/Personal-Portfolio-Website  
+  My portfolio website (customizable template / showcase of work).
+
+(If you'd like, I can add small screenshots, demo links, and badges for each project.)
+
+---
+
+## Contact & Links
+- Website: [your-website.com]
+- LinkedIn: [linkedin.com/in/your-handle]
+- Twitter: [@yourhandle]
+- Email: your.email@example.com
+- GitHub: https://github.com/muhammadyasirmalkani1
+
+---
+
+## Want this README to:
+- Be shorter or longer?
+- Have a developer stats section (top languages, streak, trophies)?
+- Include project screenshots, GIFs, or demo links?
+- Use a light or dark badge/theme?
+
+Tell me and I’ll customize it.
+
+---
+
+Thanks for visiting — let’s build something great! 🚀
 ```
-
-Edit a file directly in GitHub
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-Use GitHub Codespaces
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open and click on Share -> Publish.
-
-## Can I connect a custom domain to my project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain]
